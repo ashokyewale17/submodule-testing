@@ -1,0 +1,12 @@
+[submodule "ashoka/software"]
+	path = ashoka/software
+	url = https://github.com/Ashokay/software.git
+[submodule "ashoka/drivers"]
+	path = ashoka/drivers
+	url = https://github.com/Ashokay/drivers.git
+[submodule "ashoka/firmware"]
+	path = ashoka/firmware
+	url = https://github.com/Ashokay/firmware.git
+[submodule "ashoka/middleware"]
+	path = ashoka/middleware
+	url = https://github.com/Ashokay/middleware.git
