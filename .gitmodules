@@ -1,12 +1,12 @@
-[submodule "ashoka/software"]
-	path = ashoka/software
+[submodule "BKV12-submodule/software"]
+	path = BKV12-submodule/software
 	url = https://github.com/Ashokay/software.git
-[submodule "ashoka/drivers"]
-	path = ashoka/drivers
+[submodule "BKV12-submodule/drivers"]
+	path = BKV12-submodule/drivers
 	url = https://github.com/Ashokay/drivers.git
-[submodule "ashoka/firmware"]
-	path = ashoka/firmware
+[submodule "BKV12-submodule/firmware"]
+	path = BKV12-submodule/firmware
 	url = https://github.com/Ashokay/firmware.git
-[submodule "ashoka/middleware"]
-	path = ashoka/middleware
+[submodule "BKV12-submodule/middleware"]
+	path = BKV12-submodule/middleware
 	url = https://github.com/Ashokay/middleware.git
