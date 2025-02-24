@@ -21,7 +21,7 @@ COPY default_isr_vectors.o /opt/microchip/xc32/v4.00/pic32mx/lib/proc/32MK0512MC
 
 
 # Install any additional dependencies required by your project
-#RUN git submodule update --init --recursive
+RUN git submodule update --init --recursive
 RUN cd /app/submodule/BKV12-submodule && make
 
 
